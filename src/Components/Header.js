@@ -9,7 +9,7 @@ function Header(){
 
     return(
         <header>
-        <Link to="/"><h2>Asad</h2></Link>
+        <Link to="/"><h2>Pic Some</h2></Link>
   <div className="Icons">
   <Link to="/cart">
     <i className={cartItems.length ===0? "ri-shopping-cart-line ri-fw ri-2x":"ri-shopping-cart-fill ri-fw ri-2x"}></i>
